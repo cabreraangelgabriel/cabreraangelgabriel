@@ -1,19 +1,16 @@
-### Hi there 👋
+### Hi there 👋 Im Angel Gabriel! 
 
-<!--
-**cabreraangelgabriel/cabreraangelgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning all about IT.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
@@ -78,4 +75,4 @@ Here are some ideas to get you started:
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<img align="center" alt="GIF" src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
+
