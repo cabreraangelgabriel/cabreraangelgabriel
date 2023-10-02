@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/Perspectief-camas-perspectief-it-5qZEZ0rTln9581K7Q5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
+<img align="center" alt="GIF" src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
