@@ -77,3 +77,6 @@ Here are some ideas to get you started:
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhhNnNjMWFuZm5qbmJoZmw5NHlla2dveHBvMWY0ZGl4amljMHhpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif
+" />
